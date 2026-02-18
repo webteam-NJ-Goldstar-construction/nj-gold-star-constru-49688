@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nj-gold-star-constru-49688.pages.dev/sitemap.xml
